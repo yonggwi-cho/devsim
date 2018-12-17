@@ -8,7 +8,7 @@
 It is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.html).  Example scripts are also provided under this license.  Other files are subject to the license terms of their copyright owners.
 
 ### Supported Platforms:
-* Mac OS X 10.13 (High Sierra)
+* macOS 10.13 (High Sierra)
 * Microsoft Windows (32, 64 bit)
 * Red Hat 6 (Centos Compatible)
 * Ubuntu 14.04 (LTS)
